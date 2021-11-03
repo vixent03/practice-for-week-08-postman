@@ -9,7 +9,7 @@ Clone the server files from this [repo].
 
 To set up the server that you will test endpoints on, `cd` inside of the
 **server** folder and run `npm install` inside of the **server** folder. **Do
-not to look at the contents of the server folder until you finish this
+not look at the contents of the server folder until you finish this
 exercise.**
 
 To start the server, run `npm start` inside of the **server** folder. This will
