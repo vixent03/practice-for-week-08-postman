@@ -16,10 +16,9 @@ To start the server, run `npm start` inside of the **server** folder. This will
 allow you to make requests to [http://localhost:5000] using any client (browser
 and Postman).
 
-To stop the server from listening to requests, press `CTRL + c` for
-Windows/Linux or `CMD + c` for MacOS in the terminal that you started the server
-(wherever you ran `npm start`). To restart a stopped server, run `npm start`
-again.
+To stop the server from listening to requests, press `CTRL + c` in the terminal
+where you started the server (i.e., wherever you ran `npm start`). To restart a stopped
+server, run `npm start` again.
 
 > Note: Make sure to stop the server in the practice/exercise if there is one.
 > Leaving a server running may prevent servers in other practices/exercises
